@@ -11,7 +11,7 @@ Chest X-ray Pneumonia Analysis
 
 Project Description: This project analyzes chest X-ray images to compare normal lungs with lungs affected by pneumonia using Python. It calculates quantitative features such as mean intensity, standard deviation, and edge density to highlight structural and brightness differences between the two classes. The results are visualized with edge maps and boxplots, demonstrating clinically meaningful trends in lung opacity and tissue structure.
 
-Methods: A total of 10 chest X-ray images (5 normal and 5 pneumonia) were loaded in grayscale using Python and OpenCV. For each image, the program calculates mean pixel intensity, standard deviation, and edge density (via Canny edge detection) to quantify brightness, contrast, and structural clarity. The program also calculates an average of each metric from all the normal images and all the pneumonia images. Visualizations include original images with edges as well as boxplots to compare the two classes across all metrics.
+Methods: A total of 10 chest X-ray images (5 normal and 5 pneumonia) from a Kaggle database were loaded in grayscale using Python and OpenCV. For each image, the program calculates mean pixel intensity, standard deviation, and edge density (via Canny edge detection) to quantify brightness, contrast, and structural clarity. The program also calculates an average of each metric from all the normal images and all the pneumonia images. Visualizations include original images with edges as well as boxplots to compare the two classes across all metrics.
 
 Results:
 
