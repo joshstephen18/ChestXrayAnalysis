@@ -26,7 +26,7 @@ Average Statistics (for 5 normal and 5 pneumonia xray images):
 
 
 Analysis: 
-From the results, we can see that lungs with pneumonia tend to have a higher mean intensity (how bright the image is), a lower standard deviation of intensity (how much contrast or variation there is in pixel brightness), and a lower edge density (fraction of pixels identified as edges) relative to normal lungs. This makes sense clinically as pneumonia can cause fluid accumulation which appears brighter on X-ray, thus reflecting a higher mean intensity. Furthermore, pneumonia can cause inflammation buildup which blurs out normal lung structure on X-ray, meaning there is less contrast and therefore a lower standard deviation of the intensity. Lastly, since pneumonia X-rays are more blurred and lung structures are less distinct, there are less identifiable edges, and thus a lower edge density.
+From the average statistics, we can see that lungs with pneumonia, on average, have a higher mean intensity (how bright the image is), a lower standard deviation of intensity (how much contrast or variation there is in pixel brightness), and a lower edge density (fraction of pixels identified as edges) relative to normal lungs. This makes sense clinically as pneumonia can cause fluid accumulation which appears brighter on X-ray, thus reflecting a higher mean intensity. Furthermore, pneumonia can cause inflammation buildup which blurs out normal lung structure on X-ray, meaning there is less contrast and therefore a lower standard deviation of the intensity. Lastly, since pneumonia X-rays are more blurred and lung structures are less distinct, there are less identifiable edges, and thus a lower edge density.
 
 
 Libraries used: 
