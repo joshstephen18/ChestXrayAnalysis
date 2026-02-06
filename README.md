@@ -5,6 +5,7 @@ Project Description: This project analyzes chest X-ray images to compare normal 
 Methods: A total of 10 chest X-ray images (5 normal and 5 pneumonia) were loaded in grayscale using Python and OpenCV. For each image, the program calculates mean pixel intensity, standard deviation, and edge density (via Canny edge detection) to quantify brightness, contrast, and structural clarity. The program also calculates an average of each metric from all the normal images and all the pneumonia images. Visualizations include original images with edges as well as boxplots to compare the two classes across all metrics.
 
 Results:
+
 Normal Example- normal5.jpeg:
 Mean intensity: 103.17,
 Std intensity: 65.65,
