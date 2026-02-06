@@ -1,5 +1,9 @@
 ![boxplot](chest_xray/figures/boxplotofresults.png)
 
+![normal5example](chest_xray/figures/normal5example.png)
+
+![pneumonia5example](chest_xray/figures/pneumonia5example.png)
+
 Chest X-ray Pneumonia Analysis 
 
 Project Description: This project analyzes chest X-ray images to compare normal lungs with lungs affected by pneumonia using Python. It calculates quantitative features such as mean intensity, standard deviation, and edge density to highlight structural and brightness differences between the two classes. The results are visualized with edge maps and boxplots, demonstrating clinically meaningful trends in lung opacity and tissue structure.
