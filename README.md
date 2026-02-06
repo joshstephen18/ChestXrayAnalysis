@@ -6,14 +6,14 @@ Methods: A total of 10 chest X-ray images (5 normal and 5 pneumonia) were loaded
 
 
 Results:
-Normal Example - normal1.jpeg
-Mean intensity: 121.96
-Std intensity: 62.29
-Edge density: 0.5342
+Normal Example - normal1.jpeg: 
+Mean intensity: 121.96, 
+Std intensity: 62.29, 
+Edge density: 0.5342 
 
-Pneumonia Example - pneumonia1.jpeg
-Mean intensity: 136.55
-Std intensity: 45.17
+Pneumonia Example - pneumonia1.jpeg:
+Mean intensity: 136.55,
+Std intensity: 45.17,
 Edge density: 0.6312
 
 Average Statistics (for 5 normal and 5 pneumonia xray images)
