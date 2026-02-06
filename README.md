@@ -1,7 +1,9 @@
 ![boxplot](chest_xray/figures/boxplotofresults.png)
 
+Normal Example 5
 ![normal5example](chest_xray/figures/normal5example.png)
 
+Pneumonia Example 5
 ![pneumonia5example](chest_xray/figures/pneumonia5example.png)
 
 Chest X-ray Pneumonia Analysis 
