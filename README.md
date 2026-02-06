@@ -1,3 +1,4 @@
+Resulting Boxplots
 ![boxplot](chest_xray/figures/boxplotofresults.png)
 
 Normal Example 5
