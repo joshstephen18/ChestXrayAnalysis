@@ -1,4 +1,4 @@
-![Boxplot](figures/boxplotofresults.png)
+![boxplot](chest_xray/figures/boxplotofresults.png)
 
 Chest X-ray Pneumonia Analysis 
 
