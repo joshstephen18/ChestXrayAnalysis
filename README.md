@@ -18,12 +18,6 @@ Edge density: 0.1945
 
 
 
-
-
-
-
-
-
 Average Statistics (for 5 normal and 5 pneumonia xray images):
 
 -Normal Lungs - Mean intensity: 115.03, Std intensity: 61.46, Edge density: 0.7032
